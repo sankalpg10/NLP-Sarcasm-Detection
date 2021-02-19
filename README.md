@@ -2,8 +2,11 @@
 Neural Network Model for detecting sarcastic news headlines from text-corpus through BERT and LSTM
 
 • Devised a neural network to accomplish context-based sentiment analysis for detecting sarcastic headlines from a text-based news headlines corpus.
+
 • Used the Python NLTK library and Keras library to perform pre-processing on the text-corpus through techniques such as Tokenization, Stop-word removal, Lemmatization etc.
+
 • Built a convolutional neural network system through the LSTM and the BERT models to perform classification tasks on the text-based input. The LSTM model was used with view to incorporate context within text-based input and the BERT model for optimal performance on the Natural Language Processing tasks.
+
 • Performed hyperparameter tuning through optimizing factors such as Embedding Lengths, Dropout, Epoch-Frequency etc.
 
 Key commands to invoke functionality:
